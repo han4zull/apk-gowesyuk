@@ -1,0 +1,18 @@
+/* micro-interactions */
+    .card-hover{transition:transform .3s ease, box-shadow .3s ease}
+    .card-hover:hover{transform:translateY(-2px); box-shadow:0 10px 30px rgba(0,0,0,.08)}
+    .soft-shadow{box-shadow:0 6px 24px rgba(0,0,0,.06)}
+    /* phone mockup look */
+    .phone-frame{
+      border-radius:2rem; border:8px solid #111827; background:#fff;
+      box-shadow:0 20px 60px rgba(0,0,0,.15); overflow:hidden
+    }
+    /* section divider */
+    .divider:before{
+      content:""; position:absolute; left:50%; transform:translateX(-50%);
+      width:96px; height:4px; border-radius:9999px; background:#d1d5db
+    }
+    
+    .custom-bg {
+      background: radial-gradient(circle at 50% 0%, #e2e1fc 0%, #ffffff 100%);
+    }
