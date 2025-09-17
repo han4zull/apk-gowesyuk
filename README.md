@@ -1,7 +1,21 @@
 # 🚴 GowesYuk
 
-**GowesYuk** adalah aplikasi penyewaan sepeda berbasis **Laravel** yang memudahkan pengguna untuk melakukan pemesanan, penyewaan, hingga pembayaran secara online.  
-Aplikasi ini ditujukan untuk mendukung **gaya hidup sehat**, **ramah lingkungan**, dan **efisien dalam bertransportasi**.
+**GowesYuk** adalah aplikasi peminjaman sepeda berbasis web  
+yang memudahkan pengguna untuk melakukan **pemesanan, penyewaan,  
+hingga pembayaran secara online**.  
+
+Aplikasi ini mendukung gaya hidup **sehat**, **ramah lingkungan**,  
+dan **efisien dalam bertransportasi**.
+
+---
+
+## 🎯 Tujuan
+1. Mempermudah masyarakat yang membutuhkan sarana bersepeda tanpa harus memiliki sepeda pribadi.  
+2. Menyediakan opsi transportasi bagi pelajar yang tidak diperbolehkan membawa kendaraan bermotor ke sekolah.  
+3. Berkontribusi dalam pengurangan polusi udara melalui penyediaan moda transportasi ramah lingkungan.  
+4. Menawarkan layanan penyewaan sepeda yang efisien, aman, dan mudah diakses.  
+5. Memfasilitasi masyarakat yang ingin menggunakan sepeda untuk kegiatan rekreasi sekaligus mendukung pola hidup sehat.  
+
 
 ---
 
