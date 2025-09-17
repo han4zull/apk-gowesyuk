@@ -89,8 +89,7 @@ php artisan migrate
 
 # 5. Jalankan server lokal
 php artisan serve
-
-
+```
 
 --- 
 
