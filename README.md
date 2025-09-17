@@ -90,6 +90,8 @@ php artisan migrate
 # 5. Jalankan server lokal
 php artisan serve
 
+--- 
+
 ## 👨‍💻 Tim Developer
 - **Amanda Salsabilla Putri** – Technical Writer & Social Media Specialist  
 - **Aviola Silvhia Anggraeny** – Frontend Developer & UI/UX Designer  
