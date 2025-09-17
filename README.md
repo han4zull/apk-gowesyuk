@@ -35,8 +35,6 @@ dan **efisien dalam bertransportasi**.
 - Melihat laporan  
 - Logout  
 
----
-
 ### 🛡️ Admin
 - Login Admin  
 - Beranda / Dashboard  
@@ -45,6 +43,18 @@ dan **efisien dalam bertransportasi**.
 - Manajemen & cetak penyewaan  
 - Manajemen & cetak laporan  
 - Logout  
+
+## 🛠️ Tech Stack
+- **Backend** : Laravel 10 (PHP, MVC)  
+- **Frontend** : Blade + Tailwind CSS  
+- **Database** : MySQL  
+
+**Tools**:  
+- 🎨 Figma (UI/UX Design)  
+- 🛠️ GitHub (Version Control)  
+- 💻 XAMPP (PHP & MySQL)  
+- 📊 Draw.io / Creately (Diagram)  
+- 📄 Google Docs (Dokumentasi)  
 
 ---
 
