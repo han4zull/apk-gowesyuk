@@ -58,6 +58,18 @@ dan **efisien dalam bertransportasi**.
 
 ---
 
+## 🏅 Keunggulan Aplikasi GowesYuk
+
+- **Harga Terjangkau** → biaya sewa lebih hemat dibanding transportasi lain.  
+- **Ramah Lingkungan** → mendukung pengurangan polusi dengan bersepeda.  
+- **Mudah & Praktis** → pemesanan, penyewaan, hingga pembayaran bisa dilakukan online.  
+- **Laporan Otomatis** → riwayat penyewaan dan transaksi tercatat rapi.  
+- **Mendukung Gaya Hidup Sehat** → bersepeda jadi pilihan olahraga ringan sehari-hari.  
+- **Aman & Terpercaya** → sistem login, manajemen user, dan kontrol admin yang terjamin.  
+- **Efisien** → hemat waktu tanpa harus repot mencari sepeda secara manual.  
+
+---
+
 ## ⚡ Cara Install
 
 ```bash
@@ -77,3 +89,33 @@ php artisan migrate
 
 # 5. Jalankan server lokal
 php artisan serve
+
+## 👨‍💻 Tim Developer
+- **Amanda Salsabilla Putri** – Technical Writer & Social Media Specialist  
+- **Aviola Silvhia Anggraeny** – Frontend Developer & UI/UX Designer  
+- **Erlyta Nur Hayfa** – Frontend Developer & UI/UX Designer  
+- **Fahry Ramadhany** – Frontend Developer & QA Tester 
+- **Riski Saputra** – Backend Developer & System Analyst
+- **Zulfah Putri Aulia Hani** – Project Manager & Fullstack Developer
+
+---
+
+## 🏫 Identitas Project
+- 📘 **Mata Pelajaran / Kelas** : Pemograman Web (PW) – Kelas XI RPL 1  
+- 🏫 **Sekolah** : SMK Negeri 1 Gunungputri
+- 👥 **Kelompok** : Kelompok 4 – GowesYuk Project
+
+--- 
+
+## 🎥 Video Demo
+Lihat demo aplikasi GowesYuk di YouTube:  
+👉 [Tonton Demo GowesYuk](https://www.youtube.com/watch?v=XXXXXXXXXXX)  
+*(Link akan diperbarui setelah video demo diunggah)*
+
+---
+
+## 📜 Lisensi
+Proyek ini dilisensikan di bawah **MIT License** – silakan gunakan, modifikasi, dan sebarkan untuk tujuan pembelajaran.  
+
+Hak cipta © 2025 – Tim Developer Kelompok 4, SMK Negeri 1 Gunungputri  
+
