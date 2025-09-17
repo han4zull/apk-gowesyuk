@@ -5,10 +5,32 @@ Aplikasi ini ditujukan untuk mendukung **gaya hidup sehat**, **ramah lingkungan*
 
 ---
 
-## ✨ Fitur
-- 👤 Pendaftaran & Login User  
-- 🚲 Penyewaan Sepeda Online  
-- 💳 Pembayaran & Laporan  
+## 🚀 Fitur Utama
+
+### 👥 User
+- Registrasi / Daftar  
+- Login / Masuk  
+- Cari produk  
+- Filter produk  
+- Tambah produk ke keranjang  
+- Meminta bantuan  
+- Menyewa sepeda  
+- Ubah profil  
+- Menampilkan riwayat  
+- Ubah email / password  
+- Melihat laporan  
+- Logout  
+
+---
+
+### 🛡️ Admin
+- Login Admin  
+- Beranda / Dashboard  
+- Manajemen user  
+- Mengelola produk  
+- Manajemen & cetak penyewaan  
+- Manajemen & cetak laporan  
+- Logout  
 
 ---
 
