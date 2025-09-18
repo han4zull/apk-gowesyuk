@@ -74,7 +74,7 @@ dan **efisien dalam bertransportasi**.
 
 ```bash
 # 1. Clone repo ini
-git clone https://github.com/username/gowesyuk.git
+git clone https://github.com/han4zull/gowesyuk.git
 cd gowesyuk
 
 # 2. Install dependency
