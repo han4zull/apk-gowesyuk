@@ -94,12 +94,13 @@ php artisan serve
 --- 
 
 ## 👨‍💻 Tim Developer
+- **Zulfah Putri Aulia Hani** – Project Manager & Fullstack Developer
 - **Amanda Salsabilla Putri** – Technical Writer & Social Media Specialist  
 - **Aviola Silvhia Anggraeny** – Frontend Developer & UI/UX Designer  
 - **Erlyta Nur Hayfa** – Frontend Developer & UI/UX Designer  
 - **Fahry Ramadhany** – Frontend Developer & QA Tester 
 - **Riski Saputra** – Backend Developer & System Analyst
-- **Zulfah Putri Aulia Hani** – Project Manager & Fullstack Developer
+
 
 ---
 
